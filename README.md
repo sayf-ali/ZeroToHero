@@ -8,7 +8,6 @@ THIS IS A TEST OF GITHUB PAGES
 Languages | By Use Case
 ------------ | -------------
 HTML & CSS| Test 1
-test         test
 JavaScript | Test 2
 Python | Test 3
 Java | Test 4
