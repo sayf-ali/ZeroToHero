@@ -8,20 +8,21 @@ THIS IS A TEST OF GITHUB PAGES
 Languages | By Use Case
 ------------ | -------------
 HTML & CSS| Test 1
+          | Test A
 JavaScript | Test 2
 Python | Test 3
 Java | Test 4
 Kotlin | Test 5
 C# | Test 6
 
-** Test 7
-** Test 8
+* Test 7
+* Test 8
   * Test 9
   * Test 10
 1. Test 11
 2. Test 12
-  ** Test A
-  ** Test B
-    * Test C
+  * Test A
+  * Test B
+  * Test C
 4. Test 13
 
